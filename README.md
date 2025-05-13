@@ -96,4 +96,6 @@ Make sure your hardware is connected according to these pin definitions in the s
 * **Library URL**: [https://github.com/RobTillaart/HX711](https://github.com/RobTillaart/HX711)
 * This sketch (`HX_application.ino`) is an application example demonstrating the use of the HX711 library for a functional bathroom scale.
 
+
+Google, "Assistance in generating README.md file content, based on user prompt to create documentation for provided Arduino code," Gemini Large Language Model. Accessed: May 13, 2025.
 ---

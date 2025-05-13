@@ -7,3 +7,7 @@
 
 # Arduino IDE: >= 1.8.0 (Recommended)
 # Specific Board support packages might be needed depending on the microcontroller used (e.g., ESP32, SAMD boards).
+
+Note this file doesn't behave like a Python "requirements.txt" file, where you can download the necessary libraries by running a "pip install" command with this file. Alternatively, follow the instructions laid out in the README to ensure you meet the software requirements for this project.
+
+Google, "Assistance in generating requirements.txt file content, based on user prompt to create documentation for provided Arduino code," Gemini Large Language Model. Accessed: May 13, 2025.
