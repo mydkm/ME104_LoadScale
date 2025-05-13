@@ -1,0 +1,9 @@
+# For Arduino projects, dependencies are typically managed as libraries within the Arduino IDE.
+# This file lists the required Arduino libraries for this project.
+
+# Please install the following library using the Arduino Library Manager:
+# 1. Search for "HX711" and install the version by Rob Tillaart.
+#    Alternatively, you can find it here: https://github.com/RobTillaart/HX711
+
+# Arduino IDE: >= 1.8.0 (Recommended)
+# Specific Board support packages might be needed depending on the microcontroller used (e.g., ESP32, SAMD boards).
