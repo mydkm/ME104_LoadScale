@@ -1,8 +1,10 @@
 //
-//    FILE: HX_calibration.ino
-//  AUTHOR: Rob Tillaart
-// PURPOSE: HX711 calibration finder for offset and scale  // User's original comment, though this version is the application, not the finder
-//     URL: https://github.com/RobTillaart/HX711
+//       FILE: loadScaleMeasurements.ino
+//  AUTHOR(S): Joshua Davidov/Neola Low
+//    PURPOSE: Parsing load scale measurements from a load cell and HX711 amplifier system
+//        URL: https://github.com/mydkm/ME104_LoadScale#
+
+// Please note that this code was partially revised using Google's Gemini.
 
 
 #include "HX711.h"
